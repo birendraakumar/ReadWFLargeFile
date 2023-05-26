@@ -1,0 +1,14 @@
+D:\Projects\ReadWordFile\bin\Debug\ReadWordFile.exe.config
+D:\Projects\ReadWordFile\bin\Debug\ReadWordFile.exe
+D:\Projects\ReadWordFile\bin\Debug\ReadWordFile.pdb
+D:\Projects\ReadWordFile\bin\Debug\Spire.Doc.dll
+D:\Projects\ReadWordFile\bin\Debug\Spire.Doc.xml
+D:\Projects\ReadWordFile\obj\Debug\ReadWordFile.csproj.ResolveComReference.cache
+D:\Projects\ReadWordFile\obj\Debug\ReadWordFile.csproj.CoreCompileInputs.cache
+D:\Projects\ReadWordFile\obj\Debug\ReadWordFile.csproj.CopyComplete
+D:\Projects\ReadWordFile\obj\Debug\ReadWordFile.exe
+D:\Projects\ReadWordFile\obj\Debug\ReadWordFile.pdb
+D:\Projects\ReadWordFile\bin\Debug\Spire.Pdf.dll
+D:\Projects\ReadWordFile\bin\Debug\Microsoft.mshtml.dll
+D:\Projects\ReadWordFile\bin\Debug\Spire.Pdf.xml
+D:\Projects\ReadWordFile\obj\Debug\ReadWordFile.csproj.AssemblyReference.cache

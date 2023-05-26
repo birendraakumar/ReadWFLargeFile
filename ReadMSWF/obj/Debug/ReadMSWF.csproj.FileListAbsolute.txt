@@ -1,0 +1,11 @@
+D:\Projects\ReadWordFile\ReadMSWF\bin\Debug\ReadMSWF.exe.config
+D:\Projects\ReadWordFile\ReadMSWF\bin\Debug\ReadMSWF.exe
+D:\Projects\ReadWordFile\ReadMSWF\bin\Debug\ReadMSWF.pdb
+D:\Projects\ReadWordFile\ReadMSWF\obj\Debug\ReadMSWF.csproj.AssemblyReference.cache
+D:\Projects\ReadWordFile\ReadMSWF\obj\Debug\ReadMSWF.csproj.ResolveComReference.cache
+D:\Projects\ReadWordFile\ReadMSWF\obj\Debug\ReadMSWF.csproj.CoreCompileInputs.cache
+D:\Projects\ReadWordFile\ReadMSWF\obj\Debug\ReadMSWF.exe
+D:\Projects\ReadWordFile\ReadMSWF\obj\Debug\ReadMSWF.pdb
+D:\Projects\ReadWordFile\ReadMSWF\bin\Debug\GroupDocs.Redaction.dll
+D:\Projects\ReadWordFile\ReadMSWF\bin\Debug\GroupDocs.Redaction.xml
+D:\Projects\ReadWordFile\ReadMSWF\obj\Debug\ReadMSWF.csproj.CopyComplete
