@@ -12,6 +12,7 @@ namespace ReadMSWF
         static void Main(string[] args)
         {
             //print();
+
         }
 
         static private void FindAndReplace(Microsoft.Office.Interop.Word.Application WordApp, object findText, object replaceWithText)
